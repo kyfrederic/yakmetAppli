@@ -1,0 +1,17 @@
+<resources>
+
+    <string name="app_name">yakMetStation</string>
+    <string name="etat_station">Station status : </string>
+    <string name="temps">the weather  : </string>
+    <string name="matin">morning : </string>
+    <string name="midi">midday : </string>
+    <string name="vent">Wind speed : </string>
+    <string name="neige">The snow level : </string>
+    <string name="vibreur">vibrator   </string>
+    <string name="Station">Enter the name of a ski station</string>
+    <string name="valider">Submit</string>
+    <string name="locate">Locate</string>
+    <string name="select">select</string>
+
+
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">yakMetStation</string>
+    <string name="etat_station">Etat de la station : </string>
+    <string name="temps">Le temps : </string>
+    <string name="matin">matin : </string>
+    <string name="midi">midi : </string>
+    <string name="vent">La vitesse du vent : </string>
+    <string name="neige">Le niveau de neige : </string>
+    <string name="vibreur">vibreur   </string>
+    <string name="Station">Enter le nom d\'une station</string>
+    <string name="valider">Valider</string>
+    <string name="locate">Localisation</string>
+    <string name="select">selectionner</string>
+
+</resources>
